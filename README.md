@@ -41,4 +41,7 @@ You can install the required libraries using pip:
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
 
+The dataset used for training and evaluation can be downloaded from [Zenodo](https://zenodo.org/records/13752405).  
+Please ensure you place the downloaded files in the appropriate directory before running the scripts.
+
 
